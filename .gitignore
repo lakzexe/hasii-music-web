@@ -37,3 +37,6 @@ build/
 Thumbs.db
 .DS_Store
 .vscode
+
+# Agent tools
+.agents/

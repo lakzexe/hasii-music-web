@@ -15,7 +15,7 @@ const OpenSource = () => {
               HasiiMusicBot is built in the open. We believe in transparent development and community-driven improvements.
             </p>
             <a
-              href="https://github.com/hasindu-nagolla/HasiiMusicBot"
+              href="https://github.com/lakzexe/HasiiMusicBot"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 bg-brand-dark dark:bg-brand-primary text-white dark:text-brand-dark px-6 py-3 rounded-sm font-medium hover:bg-slate-800 dark:hover:bg-brand-primary/90 transition-colors"
@@ -27,7 +27,7 @@ const OpenSource = () => {
 
           <div className="lg:col-span-7 grid sm:grid-cols-2 gap-6">
             <a
-              href="https://github.com/hasindu-nagolla/HasiiMusicBot/pulls"
+              href="https://github.com/lakzexe/HasiiMusicBot/pulls"
               target="_blank"
               rel="noopener noreferrer"
               className="group bg-white dark:bg-brand-dark border border-brand-border dark:border-brand-border-dark p-6 hover:border-brand-primary dark:hover:border-brand-primary transition-colors flex flex-col items-start rounded-sm"
@@ -43,7 +43,7 @@ const OpenSource = () => {
             </a>
             
             <a
-              href="https://github.com/hasindu-nagolla/HasiiMusicBot/blob/main/LICENSE"
+              href="https://github.com/lakzexe/HasiiMusicBot/blob/main/LICENSE"
               target="_blank"
               rel="noopener noreferrer"
               className="group bg-white dark:bg-brand-dark border border-brand-border dark:border-brand-border-dark p-6 hover:border-brand-primary dark:hover:border-brand-primary transition-colors flex flex-col items-start rounded-sm"

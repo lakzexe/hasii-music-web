@@ -7,7 +7,7 @@
   
   [![Telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/TheInfinityAI)
   [![Telegram](https://img.shields.io/badge/Telegram-Support-blue?style=for-the-badge&logo=telegram)](https://t.me/Hasindu_Lakshan)
-  [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://hasindu-nagolla.github.io/hasii-music-site/)
+  [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://lakzexe.github.io/hasii-music-site/)
   
 </div>
 
@@ -23,6 +23,6 @@ This is the official website for **HasiiMusicBot** - a powerful Telegram music s
   
   ### Made with ❤️ by Hasindu Nagolla
   
-  **[Visit Live Site](https://hasindu-nagolla.github.io/hasii-music-site/)** • **[Bot Repository](https://github.com/hasindu-nagolla/telegram-music-bot)** • **[Telegram Channel](https://t.me/TheInfinityAI)**
+  **[Visit Live Site](https://lakzexe.github.io/hasii-music-site/)** • **[Bot Repository](https://github.com/lakzexe/telegram-music-bot)** • **[Telegram Channel](https://t.me/TheInfinityAI)**
   
 </div>

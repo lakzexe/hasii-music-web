@@ -10,7 +10,7 @@ const Footer = () => {
       { name: "Commands", href: "#commands" },
       {
         name: "Documentation",
-        href: "https://github.com/hasindu-nagolla/HasiiMusicBot#readme",
+        href: "https://github.com/lakzexe/HasiiMusicBot#readme",
       },
     ],
     community: [
@@ -18,21 +18,21 @@ const Footer = () => {
       { name: "Support Group", href: "https://t.me/TheInfinityAI" },
       {
         name: "Contribute",
-        href: "https://github.com/hasindu-nagolla/HasiiMusicBot/pulls",
+        href: "https://github.com/lakzexe/HasiiMusicBot/pulls",
       },
     ],
     resources: [
       {
         name: "GitHub Repo",
-        href: "https://github.com/hasindu-nagolla/HasiiMusicBot",
+        href: "https://github.com/lakzexe/HasiiMusicBot",
       },
       {
         name: "License (GPL V3)",
-        href: "https://github.com/hasindu-nagolla/HasiiMusicBot/blob/main/LICENSE",
+        href: "https://github.com/lakzexe/HasiiMusicBot/blob/main/LICENSE",
       },
       {
         name: "Project Structure",
-        href: "https://github.com/hasindu-nagolla/HasiiMusicBot/blob/main/Structure.md",
+        href: "https://github.com/lakzexe/HasiiMusicBot/blob/main/Structure.md",
       },
     ],
   };
@@ -72,7 +72,7 @@ const Footer = () => {
             </p>
             <div className="flex gap-4">
               <a
-                href="https://github.com/hasindu-nagolla/HasiiMusicBot"
+                href="https://github.com/lakzexe/HasiiMusicBot"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 rounded-lg text-gray-500 dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700 dark:bg-gray-800 hover:text-brand-primary transition-colors"
@@ -163,7 +163,7 @@ const Footer = () => {
             <p className="text-gray-500 dark:text-gray-400 text-sm text-center md:text-left">
               © {currentYear} HasiiMusicBot. All rights reserved. Developed by{" "}
               <a
-                href="https://github.com/hasindu-nagolla"
+                href="https://github.com/lakzexe"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-brand-primary font-medium hover:text-brand-secondary transition-colors"
